@@ -1,21 +1,13 @@
 ### Hi there 👋
 
+I have zero idea what to put here, so I'm going to sarcastically describe myself.
 
+- Currently working on: Training AI models and learning to use Python.
+- Tried learning TypeScript, failed, now dead inside.
+- Writes instant legacy code in Node.js, Java and C.
+- Fluent in DreamBerd and JDSL.
+- Wrote Svelte once. (Maybe twice)
+- Went trekking once, nearly died.
+- Can scuba dive.
 
-
-
-
-<!--
-**notarib-catcher/notarib-catcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FUN FACT: Pythons and boa constrictors have tiny legs.
