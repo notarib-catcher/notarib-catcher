@@ -11,3 +11,5 @@ I have zero idea what to put here, so I'm going to sarcastically describe myself
 - Can scuba dive.
 
 FUN FACT: Pythons and boa constrictors have tiny legs.
+
+[aaryan@aary.dev](mailto:aaryan@aary.dev?subject=Hello!)
