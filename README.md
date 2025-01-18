@@ -14,4 +14,3 @@ Aaryan - a developer who can do a little bit of everything
 
 
 [aaryan@aary.dev](mailto:aaryan@aary.dev?subject=Hello!) 
-<br><sup> (RX only) </sup>
