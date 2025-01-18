@@ -1,15 +1,17 @@
-### Hi there 👋
+### Hi there, 
 
-I have zero idea what to put here, so I'm going to sarcastically describe myself.
-
-- Currently working on: Training AI models and learning to use Python (in reverse order)
-- Tried learning TypeScript, failed, now dead inside.
+Aaryan - a developer who can do a little bit of everything
 - Writes instant legacy code in Node.js, Java and C.
-- Fluent in DreamBerd and JDSL.
-- Wrote Svelte once. (Maybe twice)
-- Went trekking once, nearly died.
+- WAYYY too much Node.js, send help.
+- Force fed team of devs SvelteKit once - they got hooked.
+- Has bricked 3 Arduinos, an ESP8266 and a Raspberry pi.
+- The military let me work on avionics once.
+- Has nearly won many CTFs, but won none. Does them anyway.
 - Can scuba dive.
+- Takes photos sometimes. (A6600, Sigma 18-50 f/2.8 iykyk)
+- Likes to travel.
+- Perpetually unemployed.
 
-FUN FACT: Pythons and boa constrictors have tiny legs.
 
-[aaryan@aary.dev](mailto:aaryan@aary.dev?subject=Hello!)
+[aaryan@aary.dev](mailto:aaryan@aary.dev?subject=Hello!) 
+<br><sup> (RX only) </sup>
